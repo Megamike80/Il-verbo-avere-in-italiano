@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Avere",
+      "hasCanvas": false,
+      "bodyTextLen": 609,
+      "bodyTextHash": "2ae4dab805cd458cbea327de81c3198484c8972866fb530230447ee67254de72",
+      "bodyTextPrefix": "SCUOLA PRIMARIA Avere Il verbo della classe. Presente, usi e esp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Avere",
+      "hasCanvas": false,
+      "bodyTextLen": 609,
+      "bodyTextHash": "2ae4dab805cd458cbea327de81c3198484c8972866fb530230447ee67254de72",
+      "bodyTextPrefix": "SCUOLA PRIMARIA Avere Il verbo della classe. Presente, usi e esp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
